@@ -9,5 +9,7 @@ print("Git Commands Reference")
 # git pull to pull the latest changes from the remote repository not locally in my computer
 # git clone to clone a remote repository to your local machine
 # git branch to show the current branches in the repository
-# git checkout branch_name to switch to a specific branch
+# git branch branch_name to create a new branch
 # git merge branch_name to merge a specific branch into the current branch
+# git switch branch_name to switch to a specific branch
+# 
