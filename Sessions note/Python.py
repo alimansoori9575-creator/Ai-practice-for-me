@@ -14,10 +14,12 @@
 #bool: Boolean values (True or False)
 
 ####     some experiments with variables and data types   ####
-message = " Hello, how are you?"
+message = " Hey, how are you?"
 name = "ali"
 is_active = True
 is_dead = False 
 print(type(is_active))  # Output: <class 'bool'>
 human = "hello " + name + message
-print(human)          
+print(human)  
+x = 10
+print(type(x))        
