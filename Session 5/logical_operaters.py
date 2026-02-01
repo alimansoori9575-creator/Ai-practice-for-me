@@ -49,4 +49,4 @@ else:
 
 completed = False
 if not completed:
-    print("Task is complete.")
+    print("Task is not complete.")
