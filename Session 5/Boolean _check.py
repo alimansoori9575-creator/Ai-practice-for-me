@@ -5,7 +5,7 @@ if user_logged_in: # you can also use "if user_logged_in == True:"
     print("Welcome back, user!")
 
 
-if user_logged_in and user_has_premium:
+if user_logged_in:
     print("Access granted to premium content.")
 else:
     print("Access denied. Please log in and/or upgrade to premium.")
