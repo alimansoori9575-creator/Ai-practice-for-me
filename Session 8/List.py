@@ -21,4 +21,5 @@ list_3 = marks[4:]
 print(list_1, list_2, list_3)
 
 # .insert() is for inserting value 
-marks.insert
+marks.insert(0, 35)
+print(marks[0])
