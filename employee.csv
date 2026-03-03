@@ -1,0 +1,8 @@
+tdc_no,name,age,class,role,city,state,studing,salary
+99,ali,21,16,student,indore,mp,True,140000
+105,zaid,20,15,unemployed,indore,mp,False,140000
+112,sohail,23,15,husband,indore,mp,False,62000
+86,danish,22,15,desiner,patna,bihar,False,70000
+80,tauseef,24,16,manager,mumbai,maharashtra,True,90000
+98,ahmad,23,16,student,indore,mp,True,68000
+96,aslam,22,15,CA,dhar,mp,True,75000
