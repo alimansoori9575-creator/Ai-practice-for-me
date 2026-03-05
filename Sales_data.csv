@@ -1,0 +1,10 @@
+OrderID,Customer,Region,Product,Quantity,Price,Discount,Orderdate
+1001,Alas,Central,Laptop,1,80000,5.0,2023-4-24
+1002,Ahmet,East,Smartphone,2,50000,10.0,2023-4-25
+1003,Ayse,West,Tablet,3,30000,,2023-4-26
+1004,Mehmet,North,Headphones,,20000,5.0,2023-4-27
+1005,Elif,Central,Smartwatch,1,15000,0.0,2023-4-28
+1006,Alice,East,Laptop,2,80000,5.0,2023-4-29
+1007,Bob,West,Smartphone,1,50000,,2023-4-30
+1008,Charlie,North,Tablet,2,,10.0,2023-5-1
+1009,David,Central,Headphones,3,20000,,2023-5-2
