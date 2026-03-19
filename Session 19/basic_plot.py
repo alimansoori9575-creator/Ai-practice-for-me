@@ -10,6 +10,6 @@ Chart = px.line(
     df,
     x="epoch",
     y="loss",
-    title= "Training loss over time"
+    title= "Training Loss Over Epochs"
 )
 Chart.show()
